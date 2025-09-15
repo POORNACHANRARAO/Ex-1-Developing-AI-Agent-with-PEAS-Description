@@ -1,7 +1,7 @@
 # Ex-1-Developing-AI-Agent-with-PEAS-Description
-### Name:
+### Name:kunam poorna chandra rao
 
-### Register Number:
+### Register Number:2305001012
 
 ### Aim:
 To find the PEAS description for the given AI problem and develop an AI agent.
@@ -116,6 +116,8 @@ agent.print_status()
 ```
 ### Sample Output:
 
-425810495-d1198ba7-da19-413b-9907-4844afae627f
+<img width="571" height="88" alt="Screenshot 2025-09-15 142446" src="https://github.com/user-attachments/assets/861f674d-e5b0-4469-9d4a-24355b6edc90" />
+
 
 ### Result:
+The PEAS description was successfully identified and an AI Vacuum Cleaner Agent was developed to sense, move, and clean the environment.
