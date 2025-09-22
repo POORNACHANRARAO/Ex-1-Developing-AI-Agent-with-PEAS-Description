@@ -102,4 +102,4 @@ for i, email in enumerate(emails, start=1):
 
 
 ### Result:
-The PEAS description was successfully identified and an Email spam filter was developed to sense, move, and clean the environment.
+The Email Spam Filter Agent was successfully developed using the PEAS framework. The agent scans emails for spam-related keywords and classifies them as SPAM or NOT SPAM, demonstrating how AI can be applied to filtering problems.
